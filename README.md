@@ -1,0 +1,1 @@
+# JS-calculate-the-factorial-use-two-methods
