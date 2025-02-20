@@ -1,1 +1,2 @@
-# JS-calculate-the-factorial-use-two-methods
+# JS-calculate-the-factorial-use-two-methods-reduce-and-forLoop
+
